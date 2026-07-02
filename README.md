@@ -20,3 +20,15 @@
 ### Вывод
 * Визуализация сгенерированного лабиринта в консоли.
 * Путь от начальной до конечной точки, если таковой был найден, в виде визуализации.
+
+### Результат генерации модифицированном алгоритмом бинарного дерева
+<img width="703" height="649" alt="image" src="https://github.com/user-attachments/assets/9a92baa5-bc36-4300-9995-f8e7edbc68dd" />
+<img width="698" height="598" alt="image" src="https://github.com/user-attachments/assets/00533ded-38b0-43f2-b1cf-629ddbc9df11" />
+<img width="703" height="573" alt="image" src="https://github.com/user-attachments/assets/2316a264-b839-4d39-9c13-06ecc28d7f6c" />
+
+### Результат генерации модифицированном алгоритмом Прима
+<img width="743" height="662" alt="image" src="https://github.com/user-attachments/assets/3851a54c-3b64-4cb8-9b0a-a7f20d9c115e" />
+<img width="737" height="630" alt="image" src="https://github.com/user-attachments/assets/98c28de2-31c7-4499-a84f-72ddd83446ec" />
+<img width="759" height="599" alt="image" src="https://github.com/user-attachments/assets/34f0537b-e096-4f09-9864-8da587a7a259" />
+
+**Более подробное техническое описание и инструкция по применению представлены в ./ABOUT.MD**
