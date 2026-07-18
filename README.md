@@ -21,6 +21,9 @@
 * Визуализация сгенерированного лабиринта в консоли.
 * Путь от начальной до конечной точки, если таковой был найден, в виде визуализации.
 
+## Инструкция по запуску
+Выполнить: `go run ./run/main.go`
+
 ### Результат генерации модифицированном алгоритмом бинарного дерева
 <img width="703" height="649" alt="image" src="https://github.com/user-attachments/assets/9a92baa5-bc36-4300-9995-f8e7edbc68dd" />
 <img width="698" height="598" alt="image" src="https://github.com/user-attachments/assets/00533ded-38b0-43f2-b1cf-629ddbc9df11" />
